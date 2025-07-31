@@ -1,6 +1,6 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
-import Front from "./pages/front";
+import Front from "./pages/Front";
 import Room from "./pages/Room";
 function App(){
   return (
